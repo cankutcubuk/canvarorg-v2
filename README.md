@@ -8,7 +8,7 @@ The version 2 is still under development, however you can still access to its st
 For any queries related to canvaruk.org (all versions) please contact with the team of [Professor Clare Turnbull](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-clare-turnbull)
 
 You may need [reduced.sql](https://drive.google.com/file/d/1Ljd-rr1fIIhWUN5LlJ1s8aqdk-kwDZK0/view?usp=sharing) to test the results of the queries.
-> sudo mysql
-mysql> create database cigma2;
-> mysql -u test --password=newpassword cigma2  < reduced.sql
+> sudo mysql <br>
+mysql> create database cigma2; <br>
+> mysql -u test --password=newpassword cigma2  < reduced.sql <br>
 
